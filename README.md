@@ -39,7 +39,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-raz&layout=compact&count_private=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaz-raz&count_private=true&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaz-raz&count_private=true&theme=github&area=false)
 
 </p>
 
