@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=riyaz-raz
 &show_icons=true&include_all_commits=true&count_private=true&theme=default" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-raz&layout=compact&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-raz&layout=compact&count_private=true&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaz-raz&count_private=true&theme=github&area=false)
 
