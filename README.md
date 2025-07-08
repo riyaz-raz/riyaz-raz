@@ -9,7 +9,7 @@
 - 📱 Previously worked extensively with **native Android (Kotlin & Java)**
 - 🌐 Currently exploring **Next.js**, **TypeScript**, and modern web development
 - ⚙️ Experienced in building scalable apps using **Firebase**, **Supabase**, and **PostgreSQL**
-- 🧩 Love solving UI/UX challenges and optimizing app performance
+- 🎨 Passionate about clean architecture, pixel-perfect UI, and smooth UX
 
 ---
 
@@ -22,13 +22,32 @@
 
 ---
 
-💬 **Let's Connect**
+🎯 **Fun Facts**
 
-- 📫 Email: riyas.datacube@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/riyas-mx <!-- Replace with actual link -->
-- 🧠 Portfolio / Blog: https://knowriyas.web.app/
+- ✨ I love clean code and smooth user interfaces  
+- 🌟 Always curious to learn new tools and frameworks
+- 🧠 Enjoy debugging race conditions and performance bottlenecks
+- 🛠️ Automating repetitive tasks is one of my favorite pastimes
 
 ---
 
-⭐️ Fun fact: I enjoy building smooth UI, debugging race conditions, and learning new stacks when not chasing deadlines.
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyaz-raz
+&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-raz&layout=compact&count_private=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyaz-raz&count_private=true&theme=github)
+
+</p>
+
+---
+
+💬 **Let's Connect**
+
+- 📫 Email: [riyas.datacube@gmail.com](mailto:riyas.datacube@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/riyas-mx](https://linkedin.com/in/riyas-mx)
+- 🌐 Portfolio: [knowriyas.web.app](https://knowriyas.web.app)
 
