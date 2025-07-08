@@ -33,8 +33,8 @@
 💬 **Let's Connect**
 
 - 📫 Email: riyas.datacube@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link) <!-- Replace with actual link -->
-- 🧠 Portfolio / Blog: *(Coming soon)*
+- 💼 LinkedIn: https://linkedin.com/in/riyas-mx <!-- Replace with actual link -->
+- 🧠 Portfolio / Blog: https://knowriyas.web.app/
 
 ---
 
