@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Riyas 👋</h1>
+<h1 align="center">Hi, I'm Riyaz 👋</h1>
 <h3 align="center">Full-time Flutter Developer | Kotlin/Java Android Background | Exploring Next.js</h3>
 
 ---
@@ -35,5 +35,5 @@
 
 - 📫 Email: [riyas.datacube@gmail.com](mailto:riyas.datacube@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/riyas-mx](https://linkedin.com/in/riyas-mx)
-- 🌐 Portfolio: [knowriyas.web.app](https://knowriyas.web.app)
+- 🌐 Portfolio: [riyas.legozia.com](https://riyas.legozia.com)
 
