@@ -1,39 +1,38 @@
-<h1 align="center">Hi, I'm Riyaz 👋</h1>
-<h3 align="center">Full-time Flutter Developer | Kotlin/Java Android Background | Exploring Next.js</h3>
+<h1 align="center">👋 Hi, I'm Riyaz</h1>
+<h3 align="center">Flutter Developer | Android (Kotlin/Java) | Exploring Next.js & Deno Fresh</h3>
 
 ---
 
-🚀 **About Me**
+## 👨‍💻 About Me  
 
-- 🧑‍💻 I'm a full-time mobile developer building production-grade apps using **Flutter**
-- 📱 Previously worked extensively with **native Android (Kotlin & Java)**
-- 🌐 Currently exploring **Next.js**, **TypeScript**, and modern web development
-- ⚙️ Experienced in building scalable apps using **Firebase**, **Supabase**, and **PostgreSQL**
-- 🎨 Passionate about clean architecture, pixel-perfect UI, and smooth UX
-
----
-
-🛠️ **Tech Stack**
-
-- **Mobile:** Flutter, Dart, Kotlin, Java
-- **Backend / Realtime / DB:** Firebase, Supabase, PostgreSQL
-- **Web:** Next.js, TypeScript, Tailwind CSS
-- **Tools:** Git, VS Code, Android Studio, Xcode, Figma
+- 🧑‍💻 Full-time **Flutter Developer**, building production-grade apps  
+- 📱 Background in **native Android** (Kotlin & Java)  
+- 🌐 Exploring **Next.js**, **Deno Fresh**, and modern **TypeScript-based web stacks**  
+- ⚙️ Skilled with **Firebase**, **Supabase**, **PostgreSQL**, and **MySQL** for scalable apps  
+- 🎨 Passionate about **clean architecture, smooth UX, and pixel-perfect UI**  
 
 ---
 
-🎯 **Fun Facts**
+## 🛠 Tech Stack  
 
-- ✨ I love clean code and smooth user interfaces  
-- 🌟 Always curious to learn new tools and frameworks
-- 🧠 Enjoy debugging race conditions and performance bottlenecks
-- 🛠️ Automating repetitive tasks is one of my favorite pastimes
+**Mobile:** Flutter, Dart, Kotlin, Java  
+**Backend & Database:** Firebase, Supabase, PostgreSQL, MySQL  
+**Web:** Next.js, Deno Fresh, Svelte, SvelteKit, React, TypeScript, Tailwind CSS  
+**Tools & Design:** Git, VS Code, Android Studio, Xcode, Figma  
 
 ---
 
-💬 **Let's Connect**
+## 🎯 What I Enjoy  
 
-- 📫 Email: [riyas.datacube@gmail.com](mailto:riyas.datacube@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/riyas-mx](https://linkedin.com/in/riyas-mx)
-- 🌐 Portfolio: [riyas.legozia.com](https://riyas.legozia.com)
+- ✨ Writing **clean, maintainable code**  
+- 🎨 Designing **intuitive UIs & smooth user experiences**  
+- 🧠 Tackling tough bugs like **race conditions & performance bottlenecks**  
+- ⚡ Automating workflows to save time  
 
+---
+
+## 📬 Connect With Me  
+
+- 📫 Email: [riyas.datacube@gmail.com](mailto:riyas.datacube@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/riyas-mx](https://linkedin.com/in/riyas-mx)  
+- 🌐 Portfolio: [riyas.legozia.com](https://riyas.legozia.com)  
