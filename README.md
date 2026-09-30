@@ -57,7 +57,7 @@
 
 ---
 
-## 🎯 What I Enjoy  
+## 🎯 What I Do  
 
 - ✨ Writing **clean, maintainable code**  
 - 🎨 Designing **intuitive UIs & smooth user experiences**  
