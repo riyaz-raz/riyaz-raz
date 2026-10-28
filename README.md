@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Riyaz</h1>
-<h3 align="center">Flutter Developer · Android (Kotlin/Java) · MERN & TypeScript</h3>
+<h3 align="center">Flutter Developer · Android (Kotlin/Java/Jetpack Compose) · MERN & TypeScript</h3>
 
 ---
 
